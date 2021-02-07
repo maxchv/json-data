@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "login": "admin",
+            "password": "qwerty",
+            "credentials": [
+                "ADMIN"
+            ]
+        },
+        {
+            "login": "guest",
+            "password": "guest",
+            "credentials": [
+                "USER"
+            ]
+        }
+    ]
+}
